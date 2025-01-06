@@ -28,7 +28,7 @@ h1 span{
     flex-flow: column wrap;
     justify-content: space-around;
 border-radius: 8%;
-margin: 10%;
+margin-bottom: 10%;
 background-color: white;
 display: block;
 }
