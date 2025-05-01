@@ -1,7 +1,10 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Cascadia+Code:ital,wght@0,200..700;1,200..700&family=Cascadia+Mono:ital,wght@0,200..700;1,200..700&family=Lemonada:wght@300..700&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
-*{
- 
+
+@@import url(https://fonts.googleapis.com/earlyaccess/amiri.css);
+
+
+  *{
+ font-family: 'Amiri', serif; 
 box-sizing: border-box;
 }
 body{
